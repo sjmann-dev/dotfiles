@@ -99,6 +99,8 @@ plugins=(
 
 source "$OSH"/oh-my-bash.sh
 
+export GCM_CREDENTIAL_STORE=gpg
+
 # User configuration
 # export MANPATH="/usr/local/man:$MANPATH"
 
